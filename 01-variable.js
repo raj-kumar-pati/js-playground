@@ -13,3 +13,6 @@ const subjects = {
 console.table([name,score]);
 console.log(myscore);
 console.log(subjects);
+
+
+//git repo link to push ===>>> https://github.com/raj-kumar-pati/js-playground.git
